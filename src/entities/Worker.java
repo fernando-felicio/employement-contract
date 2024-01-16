@@ -2,17 +2,17 @@ package entities;
 
 import entities.enums.WorkerLevel;
 
-public class Employee {
+public class Worker {
 	
 	private String name;
 	private WorkerLevel level;
 	private Double baseSalary;
 	
-	public Employee() {
+	public Worker() {
 		
 	}
 	
-	public Employee (String name, WorkerLevel level, Double baseSalary) {
+	public Worker (String name, WorkerLevel level, Double baseSalary) {
 		
 	}
 
